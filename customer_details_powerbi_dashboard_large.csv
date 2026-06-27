@@ -1,0 +1,501 @@
+CustomerID,CustomerName,Gender,Age,City,State,CustomerSegment,JoinDate,LoyaltyStatus,TotalOrders,TotalSpend
+100001,Customer_1,Male,38,Hyderabad,West Bengal,Retail,2023-05-09,Bronze,30,246324
+100002,Customer_2,Female,49,Mumbai,Telangana,Corporate,2023-10-06,Silver,41,15207
+100003,Customer_3,Male,40,Chennai,Maharashtra,Retail,2023-09-06,Silver,4,223401
+100004,Customer_4,Male,50,Delhi,Telangana,Small Business,2022-01-19,Silver,4,465844
+100005,Customer_5,Male,20,Pune,Telangana,Corporate,2023-03-30,Bronze,28,164292
+100006,Customer_6,Female,35,Delhi,West Bengal,Small Business,2023-04-27,Gold,8,482266
+100007,Customer_7,Male,42,Mumbai,Karnataka,Corporate,2023-08-17,Silver,2,210157
+100008,Customer_8,Male,59,Pune,Delhi,Small Business,2023-02-01,Bronze,41,27031
+100009,Customer_9,Male,48,Delhi,Maharashtra,Retail,2022-10-06,Bronze,46,468937
+100010,Customer_10,Female,20,Hyderabad,West Bengal,Retail,2024-04-30,Silver,22,347951
+100011,Customer_11,Male,57,Bengaluru,Karnataka,Retail,2022-12-31,Gold,41,76312
+100012,Customer_12,Male,63,Mumbai,Gujarat,Corporate,2022-11-27,Gold,16,64766
+100013,Customer_13,Male,41,Delhi,Delhi,Small Business,2023-10-03,Gold,29,148521
+100014,Customer_14,Male,49,Mumbai,Delhi,Retail,2022-12-10,Bronze,49,356977
+100015,Customer_15,Female,64,Kolkata,West Bengal,Small Business,2024-04-01,Silver,48,192771
+100016,Customer_16,Male,39,Mumbai,Tamil Nadu,Small Business,2023-03-31,Silver,30,242199
+100017,Customer_17,Female,40,Pune,Maharashtra,Retail,2023-08-24,Bronze,12,479469
+100018,Customer_18,Female,19,Kolkata,Delhi,Retail,2023-12-26,Bronze,35,241731
+100019,Customer_19,Female,44,Ahmedabad,West Bengal,Small Business,2023-10-17,Gold,11,240841
+100020,Customer_20,Male,59,Pune,West Bengal,Retail,2022-03-06,Bronze,46,116041
+100021,Customer_21,Female,19,Bengaluru,Karnataka,Retail,2022-03-17,Silver,21,121185
+100022,Customer_22,Male,43,Kolkata,Gujarat,Retail,2023-12-12,Bronze,21,182164
+100023,Customer_23,Female,34,Ahmedabad,Tamil Nadu,Corporate,2022-05-23,Bronze,5,461887
+100024,Customer_24,Female,57,Hyderabad,Maharashtra,Small Business,2024-07-05,Bronze,48,15350
+100025,Customer_25,Female,50,Mumbai,Telangana,Small Business,2024-07-03,Platinum,20,232230
+100026,Customer_26,Female,26,Delhi,Gujarat,Corporate,2024-04-07,Gold,37,368003
+100027,Customer_27,Female,60,Chennai,Gujarat,Small Business,2023-08-28,Platinum,3,266570
+100028,Customer_28,Female,56,Mumbai,Karnataka,Retail,2023-04-18,Silver,44,73487
+100029,Customer_29,Female,46,Ahmedabad,Delhi,Small Business,2023-02-21,Bronze,33,153694
+100030,Customer_30,Female,59,Mumbai,Delhi,Retail,2022-11-01,Silver,9,128853
+100031,Customer_31,Male,43,Bengaluru,Karnataka,Corporate,2024-01-06,Silver,9,468479
+100032,Customer_32,Male,52,Hyderabad,West Bengal,Retail,2023-05-12,Gold,4,320261
+100033,Customer_33,Female,42,Chennai,Delhi,Small Business,2022-10-18,Bronze,35,240062
+100034,Customer_34,Female,41,Kolkata,Tamil Nadu,Small Business,2024-07-28,Silver,17,456610
+100035,Customer_35,Female,30,Kolkata,Maharashtra,Small Business,2022-04-12,Bronze,34,238077
+100036,Customer_36,Male,24,Kolkata,Gujarat,Corporate,2024-09-12,Bronze,24,368228
+100037,Customer_37,Female,53,Ahmedabad,Gujarat,Corporate,2022-09-24,Gold,32,28782
+100038,Customer_38,Male,62,Pune,Tamil Nadu,Small Business,2024-05-16,Silver,1,295598
+100039,Customer_39,Male,37,Pune,Delhi,Retail,2024-08-25,Bronze,8,335048
+100040,Customer_40,Male,18,Delhi,Gujarat,Corporate,2023-09-14,Bronze,45,134936
+100041,Customer_41,Male,25,Chennai,Telangana,Small Business,2024-08-31,Silver,23,413808
+100042,Customer_42,Male,63,Kolkata,Maharashtra,Small Business,2024-04-21,Gold,47,158245
+100043,Customer_43,Female,33,Pune,Maharashtra,Corporate,2024-08-19,Gold,40,431420
+100044,Customer_44,Female,31,Ahmedabad,Gujarat,Corporate,2024-07-30,Platinum,12,433812
+100045,Customer_45,Female,29,Delhi,Karnataka,Corporate,2024-02-16,Gold,12,432540
+100046,Customer_46,Female,40,Hyderabad,Gujarat,Retail,2022-01-03,Bronze,46,127258
+100047,Customer_47,Female,32,Delhi,Karnataka,Retail,2022-03-26,Silver,47,116668
+100048,Customer_48,Male,45,Pune,Gujarat,Small Business,2024-03-04,Silver,15,459418
+100049,Customer_49,Female,51,Bengaluru,Telangana,Corporate,2022-11-24,Bronze,41,487616
+100050,Customer_50,Female,19,Ahmedabad,West Bengal,Retail,2024-03-26,Gold,19,391328
+100051,Customer_51,Male,49,Bengaluru,Maharashtra,Corporate,2023-03-26,Bronze,26,428966
+100052,Customer_52,Female,40,Kolkata,Gujarat,Small Business,2023-03-30,Platinum,29,474328
+100053,Customer_53,Male,39,Bengaluru,Telangana,Retail,2024-07-12,Silver,22,283710
+100054,Customer_54,Female,42,Kolkata,Karnataka,Retail,2023-09-21,Silver,40,143262
+100055,Customer_55,Male,39,Kolkata,Karnataka,Retail,2022-08-09,Silver,21,486823
+100056,Customer_56,Female,39,Pune,Maharashtra,Small Business,2022-06-03,Gold,38,43333
+100057,Customer_57,Female,59,Bengaluru,Tamil Nadu,Corporate,2023-10-27,Silver,20,389073
+100058,Customer_58,Male,23,Kolkata,Gujarat,Retail,2022-01-12,Silver,29,216977
+100059,Customer_59,Male,32,Chennai,Delhi,Small Business,2022-05-13,Bronze,4,94571
+100060,Customer_60,Male,60,Hyderabad,Karnataka,Corporate,2024-09-20,Silver,7,125263
+100061,Customer_61,Male,54,Delhi,West Bengal,Small Business,2022-10-31,Bronze,28,399805
+100062,Customer_62,Male,50,Delhi,West Bengal,Corporate,2022-10-20,Gold,28,30235
+100063,Customer_63,Male,25,Pune,Karnataka,Small Business,2024-09-01,Silver,4,5159
+100064,Customer_64,Male,61,Bengaluru,Tamil Nadu,Corporate,2022-10-27,Silver,22,148217
+100065,Customer_65,Male,61,Bengaluru,Tamil Nadu,Retail,2024-01-10,Bronze,12,479125
+100066,Customer_66,Female,22,Kolkata,Telangana,Corporate,2024-02-22,Bronze,45,167993
+100067,Customer_67,Female,56,Ahmedabad,West Bengal,Small Business,2022-02-12,Gold,3,372003
+100068,Customer_68,Male,21,Mumbai,Telangana,Small Business,2024-08-01,Bronze,22,152309
+100069,Customer_69,Female,23,Kolkata,West Bengal,Corporate,2022-12-09,Bronze,44,112507
+100070,Customer_70,Female,62,Hyderabad,Gujarat,Retail,2022-11-22,Bronze,2,406460
+100071,Customer_71,Female,49,Chennai,Gujarat,Retail,2024-03-24,Platinum,24,19743
+100072,Customer_72,Female,47,Delhi,Delhi,Corporate,2023-05-13,Gold,34,233174
+100073,Customer_73,Male,64,Kolkata,Gujarat,Corporate,2022-12-30,Bronze,27,51101
+100074,Customer_74,Female,52,Mumbai,Delhi,Small Business,2024-06-09,Bronze,41,247717
+100075,Customer_75,Male,57,Mumbai,Gujarat,Retail,2023-03-03,Bronze,1,126534
+100076,Customer_76,Female,33,Kolkata,Maharashtra,Corporate,2022-01-21,Gold,8,351371
+100077,Customer_77,Female,30,Pune,Gujarat,Retail,2023-02-11,Silver,23,235604
+100078,Customer_78,Female,59,Delhi,Telangana,Corporate,2023-09-11,Bronze,38,192450
+100079,Customer_79,Male,47,Pune,Karnataka,Corporate,2022-12-02,Bronze,6,338270
+100080,Customer_80,Female,36,Chennai,Telangana,Retail,2024-03-25,Bronze,22,323215
+100081,Customer_81,Male,34,Mumbai,Karnataka,Corporate,2022-04-27,Silver,25,207193
+100082,Customer_82,Female,36,Mumbai,Tamil Nadu,Corporate,2022-05-04,Gold,18,341907
+100083,Customer_83,Male,45,Hyderabad,Telangana,Small Business,2023-02-03,Bronze,17,492030
+100084,Customer_84,Female,43,Chennai,Tamil Nadu,Corporate,2024-03-03,Bronze,12,240422
+100085,Customer_85,Male,54,Mumbai,Delhi,Corporate,2024-03-14,Bronze,6,410453
+100086,Customer_86,Male,43,Chennai,Delhi,Corporate,2023-12-16,Platinum,26,151721
+100087,Customer_87,Female,40,Delhi,Maharashtra,Small Business,2022-02-20,Bronze,27,173785
+100088,Customer_88,Male,26,Bengaluru,Gujarat,Retail,2024-02-22,Gold,8,209535
+100089,Customer_89,Female,29,Mumbai,Telangana,Small Business,2022-11-20,Silver,19,181481
+100090,Customer_90,Female,18,Hyderabad,Tamil Nadu,Small Business,2024-02-28,Bronze,42,184838
+100091,Customer_91,Female,18,Delhi,Karnataka,Retail,2022-05-21,Bronze,1,51154
+100092,Customer_92,Female,64,Kolkata,Delhi,Small Business,2023-04-15,Bronze,29,274160
+100093,Customer_93,Female,51,Chennai,Gujarat,Retail,2024-02-26,Silver,45,477779
+100094,Customer_94,Female,49,Kolkata,Delhi,Small Business,2024-03-12,Gold,49,446904
+100095,Customer_95,Female,42,Pune,Karnataka,Retail,2022-11-30,Silver,35,356822
+100096,Customer_96,Female,57,Delhi,Gujarat,Corporate,2024-06-11,Silver,40,379200
+100097,Customer_97,Female,62,Kolkata,Gujarat,Small Business,2024-08-21,Bronze,14,59238
+100098,Customer_98,Female,18,Ahmedabad,Tamil Nadu,Small Business,2023-01-08,Platinum,35,325752
+100099,Customer_99,Female,33,Ahmedabad,Tamil Nadu,Small Business,2023-07-18,Gold,48,94081
+100100,Customer_100,Male,56,Mumbai,Telangana,Small Business,2023-05-09,Bronze,45,252644
+100101,Customer_101,Male,22,Chennai,Telangana,Corporate,2023-06-23,Platinum,20,430113
+100102,Customer_102,Female,39,Bengaluru,West Bengal,Small Business,2023-10-31,Silver,49,318105
+100103,Customer_103,Female,46,Delhi,West Bengal,Corporate,2024-01-21,Silver,13,204775
+100104,Customer_104,Female,20,Mumbai,Maharashtra,Corporate,2022-06-05,Gold,38,442973
+100105,Customer_105,Female,29,Hyderabad,Delhi,Corporate,2022-10-18,Gold,49,294061
+100106,Customer_106,Female,43,Pune,Telangana,Corporate,2023-10-10,Silver,46,420952
+100107,Customer_107,Female,33,Chennai,Tamil Nadu,Retail,2022-05-24,Bronze,49,295134
+100108,Customer_108,Female,54,Delhi,Karnataka,Retail,2022-04-16,Bronze,8,67551
+100109,Customer_109,Female,39,Ahmedabad,Tamil Nadu,Small Business,2023-02-24,Platinum,43,456377
+100110,Customer_110,Male,46,Delhi,Delhi,Retail,2023-11-01,Bronze,20,215695
+100111,Customer_111,Female,31,Bengaluru,West Bengal,Retail,2023-10-20,Bronze,33,158512
+100112,Customer_112,Male,45,Ahmedabad,Tamil Nadu,Small Business,2022-01-02,Silver,26,171277
+100113,Customer_113,Female,22,Bengaluru,Maharashtra,Small Business,2024-08-02,Silver,39,85811
+100114,Customer_114,Female,64,Hyderabad,Delhi,Small Business,2023-08-12,Silver,21,259840
+100115,Customer_115,Male,47,Pune,West Bengal,Retail,2023-10-06,Platinum,49,322247
+100116,Customer_116,Female,63,Hyderabad,Karnataka,Retail,2022-03-31,Bronze,42,469028
+100117,Customer_117,Male,22,Mumbai,West Bengal,Small Business,2022-12-11,Bronze,43,439843
+100118,Customer_118,Female,29,Mumbai,Gujarat,Corporate,2022-12-16,Bronze,41,373266
+100119,Customer_119,Female,33,Hyderabad,Maharashtra,Small Business,2023-04-04,Gold,9,239104
+100120,Customer_120,Male,43,Pune,Delhi,Corporate,2022-09-20,Silver,24,24008
+100121,Customer_121,Female,43,Hyderabad,Karnataka,Corporate,2022-12-17,Bronze,37,207346
+100122,Customer_122,Male,38,Pune,Maharashtra,Small Business,2022-04-18,Gold,49,37402
+100123,Customer_123,Female,56,Pune,West Bengal,Small Business,2023-08-09,Gold,41,189456
+100124,Customer_124,Male,53,Kolkata,Maharashtra,Small Business,2022-02-08,Gold,17,264994
+100125,Customer_125,Male,50,Ahmedabad,Delhi,Retail,2024-06-27,Platinum,24,404009
+100126,Customer_126,Female,47,Chennai,Telangana,Corporate,2022-06-08,Bronze,21,141643
+100127,Customer_127,Female,54,Pune,Maharashtra,Retail,2023-08-06,Gold,39,495083
+100128,Customer_128,Male,40,Bengaluru,Gujarat,Retail,2024-08-16,Silver,41,414425
+100129,Customer_129,Female,27,Pune,Maharashtra,Small Business,2022-11-08,Gold,39,118550
+100130,Customer_130,Female,22,Pune,West Bengal,Retail,2022-08-29,Gold,13,489146
+100131,Customer_131,Female,53,Pune,West Bengal,Small Business,2024-07-26,Gold,11,441364
+100132,Customer_132,Male,51,Kolkata,Karnataka,Corporate,2023-03-21,Silver,46,96218
+100133,Customer_133,Male,48,Ahmedabad,West Bengal,Small Business,2022-10-25,Bronze,19,138296
+100134,Customer_134,Male,27,Kolkata,Tamil Nadu,Retail,2024-08-09,Silver,11,184767
+100135,Customer_135,Male,36,Mumbai,Delhi,Retail,2022-02-05,Platinum,13,387923
+100136,Customer_136,Male,49,Kolkata,Delhi,Small Business,2022-03-25,Platinum,46,396858
+100137,Customer_137,Male,18,Bengaluru,Telangana,Small Business,2023-03-28,Bronze,45,246060
+100138,Customer_138,Male,22,Bengaluru,Telangana,Retail,2024-06-04,Bronze,1,245016
+100139,Customer_139,Male,62,Kolkata,Delhi,Corporate,2024-02-14,Bronze,40,37441
+100140,Customer_140,Male,21,Ahmedabad,Gujarat,Corporate,2024-04-01,Gold,44,243038
+100141,Customer_141,Female,33,Hyderabad,Telangana,Small Business,2023-01-20,Gold,19,175201
+100142,Customer_142,Male,41,Chennai,Karnataka,Corporate,2022-06-21,Bronze,12,236324
+100143,Customer_143,Female,33,Ahmedabad,West Bengal,Retail,2023-01-11,Silver,8,329512
+100144,Customer_144,Female,19,Kolkata,Delhi,Small Business,2023-11-16,Gold,8,97122
+100145,Customer_145,Female,45,Pune,Telangana,Retail,2022-12-28,Gold,45,49760
+100146,Customer_146,Male,49,Delhi,Delhi,Retail,2023-07-13,Silver,12,290622
+100147,Customer_147,Male,44,Chennai,Tamil Nadu,Corporate,2024-06-09,Silver,48,395025
+100148,Customer_148,Male,37,Chennai,Maharashtra,Small Business,2022-05-21,Silver,33,338998
+100149,Customer_149,Male,41,Bengaluru,West Bengal,Small Business,2024-06-05,Bronze,45,361374
+100150,Customer_150,Female,29,Chennai,Delhi,Corporate,2024-07-06,Silver,26,352860
+100151,Customer_151,Male,52,Kolkata,Maharashtra,Retail,2022-04-28,Silver,39,148252
+100152,Customer_152,Male,50,Pune,Telangana,Retail,2022-10-04,Gold,28,103538
+100153,Customer_153,Male,50,Pune,Maharashtra,Retail,2023-12-27,Silver,5,20372
+100154,Customer_154,Male,60,Mumbai,West Bengal,Retail,2022-08-08,Gold,8,296940
+100155,Customer_155,Male,54,Pune,Delhi,Small Business,2024-06-23,Bronze,25,456488
+100156,Customer_156,Female,29,Ahmedabad,Tamil Nadu,Small Business,2022-01-26,Silver,27,226035
+100157,Customer_157,Male,20,Pune,Gujarat,Corporate,2023-06-05,Bronze,46,365970
+100158,Customer_158,Female,18,Bengaluru,Telangana,Corporate,2024-02-22,Bronze,23,387736
+100159,Customer_159,Male,50,Pune,Delhi,Small Business,2022-01-10,Gold,30,360779
+100160,Customer_160,Female,57,Mumbai,West Bengal,Small Business,2024-09-10,Platinum,45,116022
+100161,Customer_161,Male,27,Delhi,Telangana,Retail,2023-01-13,Bronze,47,59040
+100162,Customer_162,Male,60,Kolkata,Karnataka,Retail,2023-09-25,Silver,23,342501
+100163,Customer_163,Female,61,Bengaluru,Maharashtra,Corporate,2023-09-29,Gold,49,207440
+100164,Customer_164,Female,46,Ahmedabad,Gujarat,Small Business,2023-11-13,Bronze,47,83356
+100165,Customer_165,Female,30,Delhi,West Bengal,Corporate,2023-08-07,Silver,20,283355
+100166,Customer_166,Male,29,Bengaluru,Karnataka,Small Business,2022-06-01,Gold,18,372570
+100167,Customer_167,Female,48,Hyderabad,Delhi,Retail,2023-12-21,Silver,18,272986
+100168,Customer_168,Male,63,Chennai,Tamil Nadu,Corporate,2022-02-18,Bronze,2,461331
+100169,Customer_169,Male,19,Hyderabad,Telangana,Corporate,2022-06-03,Bronze,4,333996
+100170,Customer_170,Female,52,Pune,Maharashtra,Small Business,2024-05-08,Gold,30,392881
+100171,Customer_171,Female,40,Delhi,Telangana,Retail,2022-10-20,Silver,33,313112
+100172,Customer_172,Male,34,Pune,Gujarat,Corporate,2023-08-03,Bronze,36,284652
+100173,Customer_173,Male,43,Chennai,Delhi,Retail,2022-02-19,Gold,18,158077
+100174,Customer_174,Female,25,Bengaluru,Telangana,Corporate,2023-10-26,Bronze,37,59575
+100175,Customer_175,Female,46,Chennai,Maharashtra,Retail,2023-06-15,Gold,19,478958
+100176,Customer_176,Female,43,Mumbai,Delhi,Small Business,2023-09-04,Bronze,47,155043
+100177,Customer_177,Male,27,Chennai,Telangana,Corporate,2022-03-01,Platinum,28,423815
+100178,Customer_178,Male,43,Mumbai,Tamil Nadu,Corporate,2022-06-16,Bronze,40,485808
+100179,Customer_179,Male,51,Chennai,West Bengal,Retail,2022-07-21,Bronze,20,71914
+100180,Customer_180,Male,58,Kolkata,Delhi,Retail,2024-05-06,Bronze,49,254134
+100181,Customer_181,Male,24,Mumbai,West Bengal,Corporate,2022-05-26,Bronze,33,72055
+100182,Customer_182,Male,21,Delhi,Delhi,Small Business,2024-07-03,Gold,12,92697
+100183,Customer_183,Female,62,Pune,Tamil Nadu,Retail,2023-11-07,Platinum,15,111239
+100184,Customer_184,Male,28,Ahmedabad,West Bengal,Retail,2024-08-27,Bronze,41,240469
+100185,Customer_185,Male,46,Pune,Karnataka,Retail,2024-09-19,Silver,39,128106
+100186,Customer_186,Male,53,Hyderabad,Maharashtra,Corporate,2023-03-15,Gold,2,272499
+100187,Customer_187,Female,42,Pune,Karnataka,Corporate,2022-08-30,Gold,29,321264
+100188,Customer_188,Male,38,Bengaluru,Telangana,Corporate,2023-08-04,Silver,41,472835
+100189,Customer_189,Male,53,Kolkata,Tamil Nadu,Corporate,2023-11-18,Bronze,10,305486
+100190,Customer_190,Female,27,Chennai,Karnataka,Small Business,2023-07-15,Silver,2,484208
+100191,Customer_191,Male,54,Hyderabad,Delhi,Small Business,2023-04-28,Silver,11,477076
+100192,Customer_192,Male,26,Bengaluru,Telangana,Corporate,2022-04-18,Bronze,13,7257
+100193,Customer_193,Male,41,Bengaluru,Telangana,Small Business,2022-08-14,Silver,10,294508
+100194,Customer_194,Male,52,Mumbai,Karnataka,Retail,2023-11-04,Bronze,14,161044
+100195,Customer_195,Male,52,Pune,Karnataka,Retail,2023-09-23,Gold,18,116715
+100196,Customer_196,Female,53,Delhi,Tamil Nadu,Retail,2023-10-23,Bronze,9,31654
+100197,Customer_197,Female,35,Ahmedabad,Maharashtra,Corporate,2024-09-03,Silver,39,216841
+100198,Customer_198,Female,56,Delhi,Karnataka,Retail,2023-10-24,Silver,28,348567
+100199,Customer_199,Male,49,Hyderabad,Gujarat,Small Business,2023-03-08,Silver,3,296464
+100200,Customer_200,Male,41,Kolkata,Karnataka,Corporate,2024-03-15,Bronze,20,25808
+100201,Customer_201,Male,40,Delhi,West Bengal,Small Business,2023-10-17,Silver,6,57389
+100202,Customer_202,Female,49,Chennai,Delhi,Retail,2023-02-23,Silver,27,493906
+100203,Customer_203,Male,54,Delhi,Gujarat,Retail,2024-09-14,Silver,2,123581
+100204,Customer_204,Male,29,Hyderabad,Gujarat,Retail,2023-03-31,Silver,29,132927
+100205,Customer_205,Female,30,Ahmedabad,West Bengal,Corporate,2022-06-09,Silver,38,39773
+100206,Customer_206,Male,40,Delhi,West Bengal,Small Business,2023-06-07,Gold,3,187240
+100207,Customer_207,Female,42,Chennai,Telangana,Corporate,2023-10-12,Bronze,16,425963
+100208,Customer_208,Female,52,Mumbai,Maharashtra,Corporate,2024-08-26,Gold,30,343540
+100209,Customer_209,Female,58,Kolkata,Delhi,Retail,2023-08-13,Silver,40,374836
+100210,Customer_210,Male,47,Hyderabad,Tamil Nadu,Corporate,2022-03-18,Bronze,2,219764
+100211,Customer_211,Male,34,Mumbai,Gujarat,Corporate,2023-05-24,Bronze,17,62505
+100212,Customer_212,Male,37,Mumbai,Tamil Nadu,Retail,2023-03-17,Bronze,41,353040
+100213,Customer_213,Male,42,Mumbai,Karnataka,Corporate,2022-09-11,Gold,12,23135
+100214,Customer_214,Male,39,Bengaluru,Karnataka,Retail,2024-07-09,Gold,35,95887
+100215,Customer_215,Male,30,Kolkata,Tamil Nadu,Retail,2024-02-09,Gold,43,127118
+100216,Customer_216,Male,36,Ahmedabad,Karnataka,Retail,2022-11-16,Silver,1,494251
+100217,Customer_217,Female,53,Pune,Maharashtra,Retail,2024-03-13,Silver,45,314521
+100218,Customer_218,Male,29,Kolkata,West Bengal,Corporate,2022-09-20,Bronze,15,159626
+100219,Customer_219,Female,58,Bengaluru,Karnataka,Retail,2023-08-20,Bronze,26,329635
+100220,Customer_220,Male,36,Pune,Telangana,Retail,2023-10-20,Silver,37,453837
+100221,Customer_221,Male,29,Kolkata,Karnataka,Corporate,2024-04-14,Bronze,21,250739
+100222,Customer_222,Male,26,Mumbai,Delhi,Corporate,2023-07-08,Bronze,49,325427
+100223,Customer_223,Female,24,Hyderabad,Maharashtra,Small Business,2023-01-09,Silver,31,483356
+100224,Customer_224,Female,45,Pune,Delhi,Corporate,2023-09-29,Gold,25,284067
+100225,Customer_225,Female,31,Chennai,Delhi,Corporate,2022-06-16,Platinum,23,314735
+100226,Customer_226,Female,48,Chennai,Telangana,Small Business,2024-07-25,Platinum,24,67261
+100227,Customer_227,Male,36,Delhi,Maharashtra,Corporate,2024-01-23,Silver,38,321480
+100228,Customer_228,Female,64,Pune,Maharashtra,Corporate,2023-04-04,Silver,28,341227
+100229,Customer_229,Male,33,Hyderabad,Maharashtra,Corporate,2024-09-25,Silver,21,65948
+100230,Customer_230,Male,22,Ahmedabad,Maharashtra,Corporate,2022-10-07,Gold,43,245891
+100231,Customer_231,Female,52,Bengaluru,Maharashtra,Small Business,2023-12-01,Bronze,18,169074
+100232,Customer_232,Female,29,Mumbai,Telangana,Corporate,2022-10-29,Silver,36,478314
+100233,Customer_233,Female,42,Delhi,Karnataka,Corporate,2023-06-15,Gold,35,471232
+100234,Customer_234,Female,38,Chennai,Delhi,Small Business,2023-08-03,Bronze,45,293816
+100235,Customer_235,Female,53,Bengaluru,Maharashtra,Retail,2022-08-06,Silver,9,271357
+100236,Customer_236,Female,40,Bengaluru,Gujarat,Small Business,2022-04-12,Silver,38,146365
+100237,Customer_237,Female,33,Mumbai,Karnataka,Retail,2023-07-08,Bronze,30,498193
+100238,Customer_238,Female,56,Ahmedabad,Karnataka,Small Business,2022-10-15,Bronze,44,454076
+100239,Customer_239,Male,62,Ahmedabad,Delhi,Small Business,2022-06-16,Bronze,34,67507
+100240,Customer_240,Female,59,Pune,Telangana,Corporate,2023-09-13,Bronze,32,62134
+100241,Customer_241,Female,56,Chennai,Tamil Nadu,Retail,2022-02-05,Bronze,3,138172
+100242,Customer_242,Male,31,Ahmedabad,Tamil Nadu,Corporate,2024-01-14,Gold,3,246225
+100243,Customer_243,Female,48,Hyderabad,Karnataka,Retail,2024-01-11,Bronze,28,198069
+100244,Customer_244,Male,22,Ahmedabad,West Bengal,Small Business,2022-12-19,Silver,44,295316
+100245,Customer_245,Male,52,Bengaluru,West Bengal,Small Business,2023-11-07,Bronze,15,287276
+100246,Customer_246,Female,40,Mumbai,Delhi,Retail,2024-06-17,Platinum,41,253933
+100247,Customer_247,Male,46,Hyderabad,Tamil Nadu,Corporate,2022-03-14,Bronze,23,285343
+100248,Customer_248,Male,60,Pune,Karnataka,Corporate,2023-10-10,Silver,40,41609
+100249,Customer_249,Male,28,Chennai,Telangana,Corporate,2022-12-19,Gold,11,179037
+100250,Customer_250,Male,35,Pune,Tamil Nadu,Corporate,2024-06-09,Gold,48,144088
+100251,Customer_251,Female,64,Bengaluru,Karnataka,Small Business,2022-03-11,Bronze,32,437995
+100252,Customer_252,Male,29,Hyderabad,Karnataka,Small Business,2023-03-01,Gold,36,299025
+100253,Customer_253,Female,26,Hyderabad,Maharashtra,Small Business,2024-09-25,Silver,33,218666
+100254,Customer_254,Male,27,Hyderabad,Telangana,Small Business,2023-12-09,Silver,24,291616
+100255,Customer_255,Male,61,Bengaluru,Maharashtra,Small Business,2024-02-20,Bronze,39,498678
+100256,Customer_256,Male,34,Bengaluru,Delhi,Corporate,2023-07-15,Bronze,34,187885
+100257,Customer_257,Male,55,Pune,Maharashtra,Corporate,2024-04-07,Gold,28,236440
+100258,Customer_258,Female,24,Delhi,Gujarat,Corporate,2023-10-04,Silver,37,262803
+100259,Customer_259,Female,63,Pune,Maharashtra,Corporate,2024-08-13,Silver,7,172093
+100260,Customer_260,Male,30,Chennai,Gujarat,Small Business,2023-06-01,Gold,4,321275
+100261,Customer_261,Male,57,Mumbai,Tamil Nadu,Small Business,2023-03-04,Gold,37,160159
+100262,Customer_262,Female,59,Hyderabad,West Bengal,Small Business,2023-06-23,Bronze,1,17828
+100263,Customer_263,Male,26,Delhi,Karnataka,Retail,2022-06-09,Silver,1,459826
+100264,Customer_264,Male,44,Mumbai,Gujarat,Corporate,2022-05-29,Bronze,47,363808
+100265,Customer_265,Male,19,Delhi,Telangana,Corporate,2024-02-15,Gold,20,137473
+100266,Customer_266,Female,22,Ahmedabad,Maharashtra,Small Business,2022-08-18,Silver,19,483395
+100267,Customer_267,Female,46,Ahmedabad,Gujarat,Corporate,2023-12-13,Platinum,29,282337
+100268,Customer_268,Female,54,Kolkata,Telangana,Corporate,2023-07-16,Bronze,10,228461
+100269,Customer_269,Male,55,Ahmedabad,West Bengal,Small Business,2022-03-08,Bronze,18,443080
+100270,Customer_270,Male,36,Pune,West Bengal,Retail,2024-03-22,Bronze,28,418523
+100271,Customer_271,Female,25,Ahmedabad,Maharashtra,Retail,2023-01-16,Bronze,35,369662
+100272,Customer_272,Female,62,Bengaluru,Delhi,Retail,2022-02-27,Bronze,43,286755
+100273,Customer_273,Female,18,Hyderabad,Maharashtra,Small Business,2022-09-16,Platinum,47,179863
+100274,Customer_274,Female,39,Pune,Tamil Nadu,Corporate,2022-12-08,Bronze,31,410166
+100275,Customer_275,Male,34,Mumbai,Gujarat,Small Business,2024-04-17,Bronze,27,343384
+100276,Customer_276,Female,24,Kolkata,Karnataka,Small Business,2022-05-10,Gold,11,244719
+100277,Customer_277,Male,42,Kolkata,Delhi,Corporate,2023-12-28,Silver,49,213475
+100278,Customer_278,Female,62,Kolkata,Maharashtra,Retail,2022-06-21,Gold,49,269889
+100279,Customer_279,Male,21,Mumbai,Telangana,Retail,2024-02-09,Bronze,38,322387
+100280,Customer_280,Female,53,Mumbai,Delhi,Small Business,2023-09-06,Silver,5,271010
+100281,Customer_281,Female,23,Mumbai,Gujarat,Retail,2022-07-28,Bronze,8,168317
+100282,Customer_282,Female,48,Mumbai,Delhi,Small Business,2024-03-13,Bronze,34,442940
+100283,Customer_283,Female,36,Kolkata,Gujarat,Small Business,2022-12-20,Platinum,48,395825
+100284,Customer_284,Male,61,Kolkata,Maharashtra,Corporate,2023-04-16,Bronze,12,76354
+100285,Customer_285,Female,56,Delhi,Gujarat,Corporate,2024-03-08,Silver,38,56374
+100286,Customer_286,Male,44,Pune,Delhi,Corporate,2022-04-26,Silver,1,119397
+100287,Customer_287,Male,27,Hyderabad,Telangana,Small Business,2022-09-21,Bronze,31,253552
+100288,Customer_288,Male,43,Ahmedabad,West Bengal,Corporate,2023-10-24,Gold,4,391721
+100289,Customer_289,Male,36,Ahmedabad,Delhi,Retail,2024-03-22,Bronze,49,428332
+100290,Customer_290,Female,56,Bengaluru,Gujarat,Retail,2023-03-18,Silver,45,348173
+100291,Customer_291,Male,20,Kolkata,West Bengal,Small Business,2023-07-02,Platinum,5,360718
+100292,Customer_292,Male,62,Bengaluru,Gujarat,Small Business,2023-03-29,Silver,30,418663
+100293,Customer_293,Male,30,Pune,Telangana,Corporate,2024-04-24,Platinum,24,297575
+100294,Customer_294,Female,45,Pune,Gujarat,Small Business,2023-04-22,Bronze,3,416124
+100295,Customer_295,Female,37,Bengaluru,Maharashtra,Small Business,2022-10-14,Silver,11,34336
+100296,Customer_296,Female,45,Kolkata,Karnataka,Retail,2022-10-30,Bronze,45,308136
+100297,Customer_297,Female,25,Bengaluru,Delhi,Retail,2022-11-07,Gold,4,60350
+100298,Customer_298,Male,58,Ahmedabad,Karnataka,Corporate,2022-07-27,Platinum,26,74561
+100299,Customer_299,Male,56,Delhi,Gujarat,Small Business,2023-09-10,Bronze,27,319099
+100300,Customer_300,Female,18,Ahmedabad,Telangana,Small Business,2023-03-22,Silver,46,66240
+100301,Customer_301,Male,20,Chennai,Delhi,Retail,2023-11-01,Bronze,43,156165
+100302,Customer_302,Male,30,Kolkata,Gujarat,Small Business,2023-09-25,Silver,27,404371
+100303,Customer_303,Male,45,Kolkata,West Bengal,Retail,2022-02-24,Silver,42,51607
+100304,Customer_304,Female,42,Hyderabad,Tamil Nadu,Corporate,2024-06-30,Platinum,6,431703
+100305,Customer_305,Female,50,Mumbai,Gujarat,Retail,2022-01-12,Silver,15,191740
+100306,Customer_306,Male,55,Chennai,Karnataka,Small Business,2023-10-19,Bronze,30,419179
+100307,Customer_307,Female,23,Pune,Delhi,Corporate,2023-02-04,Bronze,42,186196
+100308,Customer_308,Female,61,Kolkata,Karnataka,Retail,2024-06-26,Bronze,37,320014
+100309,Customer_309,Female,62,Bengaluru,Delhi,Retail,2023-10-10,Bronze,37,454763
+100310,Customer_310,Female,49,Chennai,Gujarat,Corporate,2024-09-06,Bronze,42,69110
+100311,Customer_311,Female,62,Hyderabad,Maharashtra,Corporate,2023-05-30,Gold,37,189626
+100312,Customer_312,Male,64,Pune,West Bengal,Retail,2023-10-18,Silver,35,157008
+100313,Customer_313,Female,38,Mumbai,Gujarat,Small Business,2023-06-26,Silver,23,384039
+100314,Customer_314,Male,33,Mumbai,Karnataka,Retail,2022-08-25,Bronze,6,9426
+100315,Customer_315,Male,38,Hyderabad,Tamil Nadu,Corporate,2022-10-06,Gold,4,224911
+100316,Customer_316,Female,28,Hyderabad,Tamil Nadu,Retail,2022-12-14,Gold,18,294750
+100317,Customer_317,Male,54,Bengaluru,Telangana,Corporate,2023-09-19,Bronze,9,446048
+100318,Customer_318,Male,53,Kolkata,Delhi,Corporate,2022-04-14,Gold,49,33151
+100319,Customer_319,Male,52,Mumbai,Karnataka,Small Business,2023-09-22,Silver,29,477519
+100320,Customer_320,Female,36,Pune,Telangana,Corporate,2023-06-01,Bronze,13,278452
+100321,Customer_321,Female,37,Chennai,Karnataka,Corporate,2024-09-06,Silver,47,245853
+100322,Customer_322,Male,35,Pune,Delhi,Small Business,2024-05-21,Silver,17,460738
+100323,Customer_323,Female,64,Delhi,Gujarat,Corporate,2022-09-05,Bronze,45,259595
+100324,Customer_324,Female,58,Delhi,Gujarat,Small Business,2022-12-30,Platinum,32,181743
+100325,Customer_325,Female,31,Hyderabad,Tamil Nadu,Small Business,2022-11-17,Gold,48,95306
+100326,Customer_326,Female,32,Bengaluru,Gujarat,Corporate,2023-09-25,Silver,22,230180
+100327,Customer_327,Male,48,Delhi,Gujarat,Corporate,2022-10-13,Silver,4,374128
+100328,Customer_328,Male,18,Mumbai,Maharashtra,Retail,2022-05-29,Silver,5,7204
+100329,Customer_329,Female,20,Pune,Tamil Nadu,Small Business,2022-03-25,Silver,37,97769
+100330,Customer_330,Female,33,Pune,Telangana,Retail,2024-08-23,Silver,41,92265
+100331,Customer_331,Male,40,Hyderabad,West Bengal,Corporate,2023-02-10,Bronze,49,298275
+100332,Customer_332,Male,28,Kolkata,Maharashtra,Retail,2024-09-04,Silver,13,57428
+100333,Customer_333,Female,29,Kolkata,Telangana,Small Business,2023-04-01,Gold,34,38870
+100334,Customer_334,Male,27,Chennai,Delhi,Retail,2024-01-13,Silver,45,108547
+100335,Customer_335,Female,49,Hyderabad,Maharashtra,Small Business,2024-03-10,Bronze,22,240990
+100336,Customer_336,Female,33,Ahmedabad,Telangana,Corporate,2022-06-10,Gold,23,54067
+100337,Customer_337,Male,25,Chennai,Delhi,Corporate,2024-02-23,Bronze,3,456801
+100338,Customer_338,Male,55,Ahmedabad,Tamil Nadu,Small Business,2023-04-05,Bronze,42,243083
+100339,Customer_339,Female,29,Kolkata,West Bengal,Corporate,2023-07-04,Bronze,34,117217
+100340,Customer_340,Female,41,Hyderabad,Delhi,Corporate,2023-05-15,Bronze,32,419823
+100341,Customer_341,Male,45,Ahmedabad,Gujarat,Corporate,2024-01-08,Gold,45,423184
+100342,Customer_342,Female,25,Hyderabad,Karnataka,Corporate,2023-05-24,Silver,49,103934
+100343,Customer_343,Male,45,Hyderabad,Delhi,Small Business,2023-10-16,Bronze,21,147980
+100344,Customer_344,Female,53,Kolkata,Delhi,Retail,2024-03-14,Gold,46,424639
+100345,Customer_345,Male,43,Chennai,West Bengal,Retail,2023-04-26,Gold,44,341851
+100346,Customer_346,Male,25,Chennai,Karnataka,Corporate,2023-10-25,Gold,21,214329
+100347,Customer_347,Male,45,Hyderabad,Gujarat,Retail,2022-04-24,Bronze,44,262354
+100348,Customer_348,Female,45,Delhi,Telangana,Retail,2024-01-19,Silver,11,66215
+100349,Customer_349,Female,54,Bengaluru,Telangana,Corporate,2023-08-01,Platinum,39,191907
+100350,Customer_350,Male,58,Kolkata,Delhi,Corporate,2022-12-27,Gold,4,316573
+100351,Customer_351,Female,53,Bengaluru,Karnataka,Retail,2022-12-07,Bronze,1,349296
+100352,Customer_352,Male,44,Bengaluru,Karnataka,Small Business,2024-02-09,Bronze,28,113048
+100353,Customer_353,Male,34,Chennai,Gujarat,Corporate,2024-09-13,Silver,24,174530
+100354,Customer_354,Female,26,Chennai,West Bengal,Small Business,2024-01-31,Platinum,35,182241
+100355,Customer_355,Female,50,Delhi,Tamil Nadu,Retail,2024-08-26,Silver,13,143731
+100356,Customer_356,Male,37,Bengaluru,Telangana,Corporate,2023-03-25,Silver,47,458830
+100357,Customer_357,Female,30,Bengaluru,West Bengal,Small Business,2024-04-22,Bronze,34,244977
+100358,Customer_358,Female,45,Hyderabad,Maharashtra,Corporate,2024-04-14,Silver,11,344384
+100359,Customer_359,Male,46,Chennai,Telangana,Retail,2022-06-29,Gold,36,431009
+100360,Customer_360,Male,30,Bengaluru,West Bengal,Small Business,2023-12-03,Bronze,17,118688
+100361,Customer_361,Female,63,Pune,Telangana,Retail,2023-02-11,Gold,35,313617
+100362,Customer_362,Male,52,Delhi,Tamil Nadu,Retail,2023-10-28,Platinum,18,363906
+100363,Customer_363,Male,23,Ahmedabad,Maharashtra,Corporate,2022-07-15,Bronze,40,225460
+100364,Customer_364,Female,35,Pune,Tamil Nadu,Small Business,2023-04-11,Silver,22,495834
+100365,Customer_365,Male,22,Pune,Gujarat,Retail,2022-11-07,Bronze,24,486546
+100366,Customer_366,Male,64,Ahmedabad,Maharashtra,Retail,2022-09-19,Gold,19,374100
+100367,Customer_367,Female,42,Kolkata,Delhi,Small Business,2023-02-23,Silver,37,385596
+100368,Customer_368,Female,19,Kolkata,West Bengal,Retail,2023-02-10,Silver,39,191823
+100369,Customer_369,Male,27,Delhi,Maharashtra,Retail,2024-07-27,Gold,21,393455
+100370,Customer_370,Male,47,Pune,Gujarat,Small Business,2022-05-23,Bronze,8,214987
+100371,Customer_371,Female,62,Bengaluru,Gujarat,Small Business,2022-12-08,Platinum,28,452470
+100372,Customer_372,Female,22,Chennai,Tamil Nadu,Small Business,2022-11-12,Silver,5,274150
+100373,Customer_373,Female,50,Delhi,Telangana,Small Business,2022-04-11,Bronze,17,254243
+100374,Customer_374,Female,18,Hyderabad,Maharashtra,Corporate,2022-09-01,Silver,37,79218
+100375,Customer_375,Male,35,Ahmedabad,West Bengal,Small Business,2023-05-05,Gold,36,201416
+100376,Customer_376,Female,49,Pune,Maharashtra,Corporate,2022-01-12,Bronze,19,432056
+100377,Customer_377,Female,64,Delhi,Karnataka,Corporate,2022-08-27,Gold,27,37430
+100378,Customer_378,Male,28,Mumbai,Telangana,Corporate,2023-07-15,Platinum,34,28091
+100379,Customer_379,Female,38,Mumbai,West Bengal,Retail,2022-02-11,Bronze,11,262125
+100380,Customer_380,Male,43,Kolkata,West Bengal,Corporate,2023-11-09,Platinum,45,431199
+100381,Customer_381,Female,42,Ahmedabad,Delhi,Corporate,2023-08-17,Bronze,47,28989
+100382,Customer_382,Female,39,Chennai,Tamil Nadu,Retail,2023-03-05,Bronze,12,80451
+100383,Customer_383,Female,44,Bengaluru,Delhi,Retail,2024-03-13,Bronze,21,23990
+100384,Customer_384,Male,30,Chennai,West Bengal,Retail,2022-06-07,Gold,11,357414
+100385,Customer_385,Male,50,Chennai,Telangana,Small Business,2022-08-04,Silver,39,347504
+100386,Customer_386,Female,51,Chennai,Maharashtra,Retail,2023-11-01,Bronze,28,255541
+100387,Customer_387,Male,58,Ahmedabad,Maharashtra,Retail,2023-04-07,Silver,5,303225
+100388,Customer_388,Male,52,Chennai,Telangana,Corporate,2022-05-14,Silver,17,147105
+100389,Customer_389,Male,18,Hyderabad,West Bengal,Retail,2022-03-08,Bronze,20,375416
+100390,Customer_390,Male,38,Ahmedabad,Gujarat,Small Business,2024-04-27,Gold,41,283385
+100391,Customer_391,Male,23,Hyderabad,Maharashtra,Retail,2022-01-07,Gold,46,129932
+100392,Customer_392,Male,45,Ahmedabad,Gujarat,Small Business,2024-08-05,Silver,12,273083
+100393,Customer_393,Female,34,Kolkata,Maharashtra,Retail,2023-06-10,Platinum,6,118000
+100394,Customer_394,Female,22,Delhi,Maharashtra,Retail,2022-03-14,Silver,17,183634
+100395,Customer_395,Male,48,Mumbai,Tamil Nadu,Retail,2023-02-03,Platinum,19,40063
+100396,Customer_396,Female,22,Chennai,Tamil Nadu,Retail,2023-02-09,Silver,26,498216
+100397,Customer_397,Female,55,Kolkata,Karnataka,Small Business,2023-11-06,Silver,48,212793
+100398,Customer_398,Female,20,Delhi,Delhi,Small Business,2023-08-01,Bronze,44,163117
+100399,Customer_399,Female,40,Mumbai,Telangana,Corporate,2024-05-08,Gold,44,442985
+100400,Customer_400,Male,54,Pune,Telangana,Small Business,2022-05-10,Silver,32,314262
+100401,Customer_401,Female,54,Bengaluru,Telangana,Retail,2024-07-19,Bronze,6,89703
+100402,Customer_402,Female,27,Hyderabad,Karnataka,Corporate,2023-04-11,Bronze,36,419841
+100403,Customer_403,Male,27,Pune,Tamil Nadu,Corporate,2022-07-25,Silver,38,240796
+100404,Customer_404,Male,36,Ahmedabad,West Bengal,Corporate,2024-02-27,Silver,11,133557
+100405,Customer_405,Female,34,Mumbai,Gujarat,Retail,2024-09-04,Gold,33,294220
+100406,Customer_406,Female,38,Pune,Gujarat,Small Business,2024-02-07,Gold,24,258317
+100407,Customer_407,Female,31,Bengaluru,West Bengal,Retail,2022-09-23,Bronze,23,200877
+100408,Customer_408,Female,26,Kolkata,Karnataka,Corporate,2023-06-21,Gold,15,311749
+100409,Customer_409,Female,63,Mumbai,West Bengal,Retail,2024-08-19,Bronze,27,351709
+100410,Customer_410,Female,18,Pune,Telangana,Retail,2024-03-03,Gold,11,486725
+100411,Customer_411,Male,62,Hyderabad,Delhi,Small Business,2022-09-10,Gold,17,306265
+100412,Customer_412,Female,30,Hyderabad,Maharashtra,Small Business,2024-04-01,Silver,14,463317
+100413,Customer_413,Female,21,Delhi,Gujarat,Corporate,2022-10-16,Gold,27,298577
+100414,Customer_414,Male,18,Pune,Tamil Nadu,Retail,2022-06-13,Bronze,18,48309
+100415,Customer_415,Male,57,Chennai,Tamil Nadu,Retail,2022-04-05,Silver,28,334612
+100416,Customer_416,Male,49,Pune,Karnataka,Small Business,2024-02-21,Gold,47,442470
+100417,Customer_417,Male,51,Kolkata,Tamil Nadu,Retail,2024-04-12,Silver,47,334437
+100418,Customer_418,Female,45,Mumbai,Telangana,Retail,2022-04-20,Bronze,4,363402
+100419,Customer_419,Female,48,Mumbai,Gujarat,Retail,2022-12-02,Silver,7,436069
+100420,Customer_420,Female,25,Kolkata,West Bengal,Small Business,2024-04-01,Gold,45,305549
+100421,Customer_421,Female,56,Pune,Telangana,Corporate,2022-08-26,Bronze,35,464868
+100422,Customer_422,Female,43,Kolkata,Karnataka,Corporate,2023-01-16,Bronze,48,48527
+100423,Customer_423,Female,51,Bengaluru,Telangana,Retail,2023-03-12,Gold,9,344371
+100424,Customer_424,Male,20,Ahmedabad,West Bengal,Corporate,2024-06-17,Gold,8,398708
+100425,Customer_425,Female,29,Kolkata,Delhi,Small Business,2023-04-28,Bronze,45,229490
+100426,Customer_426,Male,18,Hyderabad,Karnataka,Small Business,2024-07-25,Bronze,17,144883
+100427,Customer_427,Male,61,Kolkata,Delhi,Corporate,2024-06-20,Bronze,17,98344
+100428,Customer_428,Female,22,Mumbai,Maharashtra,Corporate,2022-01-25,Bronze,49,160344
+100429,Customer_429,Male,47,Hyderabad,Delhi,Retail,2023-10-15,Silver,33,492151
+100430,Customer_430,Female,47,Mumbai,Maharashtra,Corporate,2022-04-27,Gold,32,470226
+100431,Customer_431,Male,34,Delhi,Maharashtra,Retail,2023-04-27,Silver,8,228564
+100432,Customer_432,Female,64,Chennai,Delhi,Retail,2023-01-27,Silver,19,52153
+100433,Customer_433,Male,40,Mumbai,Karnataka,Small Business,2024-07-05,Bronze,38,113042
+100434,Customer_434,Female,32,Hyderabad,West Bengal,Small Business,2024-09-20,Gold,3,59110
+100435,Customer_435,Female,54,Delhi,Telangana,Small Business,2024-08-21,Silver,5,150051
+100436,Customer_436,Female,38,Mumbai,Telangana,Small Business,2023-06-21,Platinum,13,246131
+100437,Customer_437,Female,31,Bengaluru,West Bengal,Corporate,2022-03-20,Silver,47,244173
+100438,Customer_438,Female,19,Kolkata,Gujarat,Small Business,2023-08-03,Bronze,46,33328
+100439,Customer_439,Male,28,Chennai,Gujarat,Corporate,2022-06-22,Silver,31,117911
+100440,Customer_440,Male,56,Mumbai,Maharashtra,Small Business,2024-08-13,Bronze,16,280011
+100441,Customer_441,Male,55,Delhi,Maharashtra,Corporate,2022-01-12,Silver,32,64234
+100442,Customer_442,Female,51,Bengaluru,Karnataka,Retail,2024-03-10,Bronze,22,292995
+100443,Customer_443,Male,55,Pune,Tamil Nadu,Corporate,2022-05-08,Bronze,29,298423
+100444,Customer_444,Female,51,Delhi,Delhi,Corporate,2023-08-31,Gold,22,253503
+100445,Customer_445,Female,35,Kolkata,Maharashtra,Small Business,2022-04-02,Bronze,43,232135
+100446,Customer_446,Male,47,Delhi,Telangana,Corporate,2023-10-15,Gold,3,78402
+100447,Customer_447,Male,32,Bengaluru,Karnataka,Retail,2023-06-27,Bronze,10,282593
+100448,Customer_448,Female,44,Delhi,Delhi,Retail,2024-04-25,Silver,42,343365
+100449,Customer_449,Male,51,Bengaluru,Karnataka,Small Business,2023-06-16,Silver,21,356224
+100450,Customer_450,Female,55,Mumbai,Delhi,Retail,2023-10-20,Silver,16,10451
+100451,Customer_451,Female,50,Ahmedabad,Delhi,Corporate,2024-09-15,Bronze,12,92178
+100452,Customer_452,Female,41,Bengaluru,West Bengal,Retail,2024-04-07,Bronze,2,439532
+100453,Customer_453,Female,32,Bengaluru,Maharashtra,Small Business,2023-03-23,Bronze,41,461280
+100454,Customer_454,Female,47,Chennai,Karnataka,Corporate,2023-01-25,Bronze,24,330905
+100455,Customer_455,Male,59,Bengaluru,Karnataka,Small Business,2023-11-03,Silver,35,241562
+100456,Customer_456,Male,34,Bengaluru,West Bengal,Corporate,2024-05-10,Platinum,30,306014
+100457,Customer_457,Female,22,Pune,Telangana,Retail,2022-02-12,Gold,30,363710
+100458,Customer_458,Female,46,Ahmedabad,Telangana,Small Business,2022-09-11,Gold,47,390893
+100459,Customer_459,Male,21,Mumbai,Gujarat,Small Business,2022-05-10,Gold,35,128765
+100460,Customer_460,Male,27,Kolkata,Maharashtra,Corporate,2022-03-01,Silver,19,392025
+100461,Customer_461,Female,34,Chennai,Maharashtra,Small Business,2023-10-25,Bronze,8,429089
+100462,Customer_462,Male,27,Pune,Tamil Nadu,Corporate,2023-04-12,Platinum,26,133389
+100463,Customer_463,Female,34,Hyderabad,West Bengal,Corporate,2022-10-14,Silver,49,194699
+100464,Customer_464,Male,37,Ahmedabad,Telangana,Corporate,2023-06-01,Silver,40,202227
+100465,Customer_465,Female,41,Mumbai,Delhi,Corporate,2023-04-12,Bronze,7,497402
+100466,Customer_466,Male,22,Mumbai,Karnataka,Retail,2024-07-18,Silver,30,292516
+100467,Customer_467,Female,51,Hyderabad,Maharashtra,Corporate,2024-02-17,Silver,7,270786
+100468,Customer_468,Male,23,Kolkata,Karnataka,Small Business,2022-12-11,Gold,3,265220
+100469,Customer_469,Male,19,Bengaluru,Karnataka,Retail,2023-10-04,Silver,1,426217
+100470,Customer_470,Female,30,Pune,Tamil Nadu,Small Business,2023-01-17,Bronze,36,301208
+100471,Customer_471,Male,60,Delhi,Telangana,Retail,2024-02-18,Platinum,25,230898
+100472,Customer_472,Female,60,Chennai,Maharashtra,Corporate,2023-11-21,Bronze,37,281266
+100473,Customer_473,Male,28,Delhi,Karnataka,Retail,2022-09-10,Silver,1,423036
+100474,Customer_474,Female,64,Hyderabad,Maharashtra,Retail,2024-07-15,Bronze,15,73431
+100475,Customer_475,Male,40,Mumbai,Delhi,Small Business,2022-02-25,Gold,37,60745
+100476,Customer_476,Female,33,Kolkata,Tamil Nadu,Small Business,2023-04-08,Platinum,13,55081
+100477,Customer_477,Male,48,Mumbai,Delhi,Corporate,2023-04-02,Bronze,40,469118
+100478,Customer_478,Female,28,Chennai,Maharashtra,Retail,2024-09-09,Gold,8,406927
+100479,Customer_479,Male,33,Mumbai,Gujarat,Retail,2022-03-24,Bronze,5,221204
+100480,Customer_480,Female,25,Mumbai,Maharashtra,Retail,2024-06-23,Platinum,9,417009
+100481,Customer_481,Female,21,Chennai,Telangana,Corporate,2022-04-09,Gold,1,406415
+100482,Customer_482,Female,57,Pune,Karnataka,Corporate,2022-05-29,Gold,36,81253
+100483,Customer_483,Male,21,Pune,Karnataka,Corporate,2022-11-25,Bronze,35,303335
+100484,Customer_484,Female,42,Chennai,Delhi,Corporate,2022-06-05,Platinum,2,277355
+100485,Customer_485,Male,20,Kolkata,Tamil Nadu,Corporate,2022-07-09,Gold,40,116086
+100486,Customer_486,Female,49,Hyderabad,Gujarat,Small Business,2023-05-09,Bronze,23,461285
+100487,Customer_487,Male,20,Ahmedabad,West Bengal,Retail,2024-06-01,Gold,9,487112
+100488,Customer_488,Female,44,Mumbai,Karnataka,Retail,2022-09-20,Bronze,34,454962
+100489,Customer_489,Male,46,Kolkata,Telangana,Retail,2022-03-21,Gold,46,419758
+100490,Customer_490,Male,49,Mumbai,Delhi,Retail,2023-02-04,Bronze,14,429528
+100491,Customer_491,Female,36,Ahmedabad,Delhi,Retail,2024-02-03,Gold,4,443458
+100492,Customer_492,Male,38,Hyderabad,West Bengal,Retail,2023-09-01,Silver,30,369115
+100493,Customer_493,Male,22,Pune,Telangana,Retail,2022-09-17,Bronze,31,98783
+100494,Customer_494,Female,35,Kolkata,Tamil Nadu,Retail,2024-02-11,Bronze,38,130681
+100495,Customer_495,Male,45,Bengaluru,Telangana,Small Business,2023-09-07,Bronze,11,92893
+100496,Customer_496,Male,59,Bengaluru,Tamil Nadu,Retail,2023-07-06,Silver,35,453604
+100497,Customer_497,Male,39,Ahmedabad,Telangana,Small Business,2024-02-24,Bronze,8,163763
+100498,Customer_498,Female,38,Bengaluru,Telangana,Corporate,2022-04-11,Silver,3,82960
+100499,Customer_499,Male,23,Pune,Maharashtra,Retail,2022-12-25,Bronze,14,351532
+100500,Customer_500,Female,18,Ahmedabad,Delhi,Corporate,2023-01-15,Bronze,13,27601
